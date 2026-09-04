@@ -10,7 +10,7 @@
   ],
 
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/btshrewsbury-viam/palletizer-102",
   "description": "Packs boxes from a pick-station onto a pallet in a configurable pattern, and swaps full trays.",
   "applications": null,
   "markdown_link": "README.md",
